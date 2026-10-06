@@ -1,0 +1,21 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Caché de Pytest
+.pytest_cache/
+
+# Reportes generados
+reports/*.html
+
+# Capturas de pantalla generadas
+reports/*.png
+reports/*.jpg
+reports/*.jpeg
+
+# Archivos de configuración local
+.env
