@@ -9,9 +9,6 @@ __pycache__/
 # Caché de Pytest
 .pytest_cache/
 
-# Reportes generados
-reports/*.html
-
 # Capturas de pantalla generadas
 reports/*.png
 reports/*.jpg
